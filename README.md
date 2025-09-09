@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%3C+Hello!+I'm+Nandkishor+%2F%3E;Future+Software+Engineer;Learning+Databases+%26+Backend" alt="Typing SVG" />
 </h1>
 
----
-
 ### Technologies
 
 <p align="center">
